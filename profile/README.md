@@ -1,3 +1,3 @@
-# Welcome to WarjoyPuddle!
+# Welcome to Warjoy Puddle!
 
 TODO
